@@ -1,6 +1,6 @@
 # README
 
-This repository contains the code for the paper **"Incorporating Interactive User Feedback through Precision Matrix Adjustments for High-Dimensional Anomaly Detection"**, currently in review at ICDM 2025.
+This repository contains the code for the paper **"Incorporating Interactive User Feedback through Precision Matrix Adjustments for High-Dimensional Anomaly Detection"**, published and presented at ICDM 2025.
 
 ## To Collect the Results from the Paper
 
